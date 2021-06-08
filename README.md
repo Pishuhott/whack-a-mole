@@ -5,4 +5,4 @@
 
 **Description**
 
-The game of reaction speed, in which you need to click on the hopping mole and earn scores. Implemented saving the best result in the local storage.
+A game of reaction speed in which you need to click on a jumping mole and earn points. It is possible to complicate the game by increasing the rate at which the mole appears.
